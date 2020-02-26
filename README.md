@@ -11,5 +11,6 @@ un blog increible para el curso de Git y Github de Platzi
 * Trucos muy divertidos del profesor.
 * Las personalidades Multiples de Freddy.
 * creado por el increible Egam team.
+* Incluye ejemplos en Windows, Linux y Mac.
 
 Y como un amable recordatorio: ** Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO  TE LO TOMES PERSONAL.
